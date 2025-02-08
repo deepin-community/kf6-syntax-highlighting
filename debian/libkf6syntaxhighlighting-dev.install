@@ -1,0 +1,3 @@
+usr/include/KF6/KSyntaxHighlighting/
+usr/lib/*/cmake/KF6SyntaxHighlighting/
+usr/lib/*/libKF6SyntaxHighlighting.so
